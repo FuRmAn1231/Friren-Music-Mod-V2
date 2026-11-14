@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "All-Rights-Reserved"
+
+[[mods]]
+modId = "frierenmusic"
+version = "${version}"
+displayName = "Frieren Music"
+description = '''Replaces Minecraft background music with Evan Call's Frieren soundtrack: calm, combat and boss modes with smooth crossfades.'''
+
+[[mixins]]
+config = "frierenmusic.mixins.json"
+
+[[dependencies.frierenmusic]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.0,)"
+ordering = "NONE"
+side = "CLIENT"
+
+[[dependencies.frierenmusic]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "CLIENT"

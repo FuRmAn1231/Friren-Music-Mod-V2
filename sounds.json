@@ -1,0 +1,155 @@
+{
+  "boss_divine_revolte": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "frierenmusic:music/boss_divine_revolte",
+        "stream": true
+      }
+    ]
+  },
+  "boss_four_swords": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "frierenmusic:music/boss_four_swords",
+        "stream": true
+      }
+    ]
+  },
+  "boss_knife_to_the_throat": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "frierenmusic:music/boss_knife_to_the_throat",
+        "stream": true
+      }
+    ]
+  },
+  "calm_blue_moon_weed": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "frierenmusic:music/calm_blue_moon_weed",
+        "stream": true
+      }
+    ]
+  },
+  "calm_departures": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "frierenmusic:music/calm_departures",
+        "stream": true
+      }
+    ]
+  },
+  "calm_end_of_one_journey": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "frierenmusic:music/calm_end_of_one_journey",
+        "stream": true
+      }
+    ]
+  },
+  "calm_farewell": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "frierenmusic:music/calm_farewell",
+        "stream": true
+      }
+    ]
+  },
+  "calm_for_1000_years": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "frierenmusic:music/calm_for_1000_years",
+        "stream": true
+      }
+    ]
+  },
+  "calm_in_times_of_peace": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "frierenmusic:music/calm_in_times_of_peace",
+        "stream": true
+      }
+    ]
+  },
+  "calm_life_is_worth_living": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "frierenmusic:music/calm_life_is_worth_living",
+        "stream": true
+      }
+    ]
+  },
+  "calm_precious_moments": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "frierenmusic:music/calm_precious_moments",
+        "stream": true
+      }
+    ]
+  },
+  "calm_time_flows_onward": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "frierenmusic:music/calm_time_flows_onward",
+        "stream": true
+      }
+    ]
+  },
+  "combat_demons_bane": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "frierenmusic:music/combat_demons_bane",
+        "stream": true
+      }
+    ]
+  },
+  "combat_dragon_smasher": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "frierenmusic:music/combat_dragon_smasher",
+        "stream": true
+      }
+    ]
+  },
+  "combat_evolution_of_magic": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "frierenmusic:music/combat_evolution_of_magic",
+        "stream": true
+      }
+    ]
+  },
+  "combat_fear_brought_me": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "frierenmusic:music/combat_fear_brought_me",
+        "stream": true
+      }
+    ]
+  },
+  "combat_frieren_the_slayer": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "frierenmusic:music/combat_frieren_the_slayer",
+        "stream": true
+      }
+    ]
+  }
+}
